@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, Arduino (basics)
+  🦄 Linguagens:![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 </p>
 
 <p align="left">
