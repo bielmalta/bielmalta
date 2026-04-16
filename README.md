@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+   Linguagens:
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Vscode e Arduino IDE.
+   Ferramentas: Vscode e Arduino IDE.
 </p>
 
 <p align="left">
-  💌 Formas de Contato: ⤵️
+   Formas de Contato: ⤵️
 </p>
 
 <p align="left">
