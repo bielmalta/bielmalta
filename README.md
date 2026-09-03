@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Meu nome é Gabriel Malta, sou estudande do curso de ciência da computação na CESAR School. Tenho interesse em aprender a linguagem Java, penso em trabalhar com ela no futuro, também gosto da área de Machine Learning.
+ Meu nome é Gabriel Malta, sou estudande do curso de ciência da computação na CESAR School. Tenho interesse em aprender a linguagem Java, penso em trabalhar com ela no futuro, também gosto da área de Machine Learning e Cybersecurity.
 </p>
 
 <p align="left">
