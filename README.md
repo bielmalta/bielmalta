@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-   Ferramentas: Vscode e Arduino IDE.
+   Ferramentas: Vscode e Github.
 </p>
 
 <p align="left">
