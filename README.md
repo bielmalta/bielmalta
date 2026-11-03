@@ -1,31 +1,70 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
- Meu nome é Gabriel Malta, sou estudande do curso de ciência da computação na CESAR School. Tenho interesse em aprender a linguagem Java, penso em trabalhar com ela no futuro, também gosto da área de Machine Learning e Cybersecurity.
+<p align="center">
+  <img src="assets/orbital-hero.svg" width="100%" alt="Gabriel Malta — Computer Science student and software developer">
 </p>
 
-<p align="left">
-   Linguagens:
- 
- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
- 
+<p align="center">
+  <a href="https://github.com/bielmalta">
+    <img src="https://img.shields.io/badge/GitHub-bielmalta-0B1021?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="GitHub profile">
+  </a>
 </p>
 
-<p align="left">
-   Ferramentas: Vscode e Github.
+<p align="center">
+  Computer Science student at <strong>CESAR School</strong> in Recife, Brazil.<br>
+  Exploring the space between robust backends, expressive interfaces and useful software.<br>
+  Currently turning ideas into projects — one commit at a time.
 </p>
 
-<p align="left">
-   Formas de Contato: ⤵️
+<p align="center">
+  <code>BACKEND</code>&nbsp;&nbsp;•&nbsp;&nbsp;<code>WEB</code>&nbsp;&nbsp;•&nbsp;&nbsp;<code>OPEN SOURCE</code>&nbsp;&nbsp;•&nbsp;&nbsp;<code>CONTINUOUS LEARNING</code>
 </p>
 
-<p align="left">
-  <a href="mailto: ggm@cesar.school" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link= " alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-gondim-malta-99345b383/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= " alt="LinkedIn"/></a> 
-  <a href="https://www.instagram.com/bielgmalta?igsh=ZG44b3d4cTQxeHZh&utm_source=qr" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+<br>
+
+<h2 align="center">◈ Technology constellation</h2>
+
+<p align="center">
+  <img src="assets/tech-constellation.svg" width="880" alt="Technology constellation: Java, Python, C, Spring Boot, Django, Git, GitHub, Linux and VS Code">
+</p>
+
+<div align="center">
+
+| Core languages | Frameworks | Environment |
+|:---:|:---:|:---:|
+| Java · Python · C | Spring Boot · Django | Git · GitHub · Linux · VS Code |
+
+</div>
+
+<br>
+
+<h2 align="center">◈ Mission telemetry</h2>
+
+<p align="center">
+  <img src="assets/mission-telemetry.svg" width="880" alt="Mission telemetry showing Gabriel's focus on learning, building and collaboration">
+</p>
+
+<p align="center">
+  <a href="https://github.com/bielmalta?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=bielmalta&show_icons=true&hide_border=true&bg_color=0B1021&title_color=A78BFA&text_color=C8D3F5&icon_color=22D3EE&ring_color=8B5CF6" alt="Gabriel Malta's GitHub statistics">
+  </a>
+  <a href="https://github.com/bielmalta?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielmalta&layout=compact&hide_border=true&bg_color=0B1021&title_color=A78BFA&text_color=C8D3F5" alt="Most used languages on public repositories">
+  </a>
+</p>
+
+<blockquote align="center">
+  Good software is built where curiosity meets consistency.
+</blockquote>
+
+<p align="center">
+  <a href="https://github.com/bielmalta?tab=repositories"><strong>Explore my repositories →</strong></a>
+</p>
+
+<p align="center">
+  <img src="assets/orbital-footer.svg" width="100%" alt="Animated orbital signal">
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielgmalta/">LinkedIn</a> ·
+  <a href="mailto:ggm@cesar.school">Email</a>
 </p>
