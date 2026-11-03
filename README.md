@@ -23,7 +23,7 @@
 <h2 align="center">◈ Technology constellation</h2>
 
 <p align="center">
-  <img src="assets/tech-constellation.svg" width="880" alt="Technology constellation: Java, Python, C, Spring Boot, Django, Git, GitHub, Linux and VS Code">
+  <img src="assets/tech-constellation.svg" width="880" alt="Technology constellation: Java, Python, C, Spring Boot, Django, React, Git, GitHub, Linux and VS Code">
 </p>
 
 <div align="center">
@@ -44,10 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/bielmalta?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=bielmalta&show_icons=true&hide_border=true&bg_color=0B1021&title_color=A78BFA&text_color=C8D3F5&icon_color=22D3EE&ring_color=8B5CF6" alt="Gabriel Malta's GitHub statistics">
-  </a>
-  <a href="https://github.com/bielmalta?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielmalta&layout=compact&hide_border=true&bg_color=0B1021&title_color=A78BFA&text_color=C8D3F5" alt="Most used languages on public repositories">
+    <img src="assets/github-signal.svg" width="880" alt="Open Gabriel Malta's public repositories">
   </a>
 </p>
 
@@ -62,7 +59,6 @@
 <p align="center">
   <img src="assets/orbital-footer.svg" width="100%" alt="Animated orbital signal">
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielgmalta/">LinkedIn</a> ·
