@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="350" viewBox="0 0 880 350" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Malta's technology constellation</title>
+  <desc id="desc">Animated constellation nodes for Java, Python, C, Spring Boot, Django, React, Git, GitHub, Linux and VS Code.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D1D"/><stop offset="1" stop-color="#12102B"/></linearGradient>
+    <linearGradient id="beam"><stop stop-color="#22D3EE" stop-opacity=".1"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".1"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="878" height="348" rx="22" fill="url(#bg)" stroke="#334155"/>
+  <g fill="none" stroke="url(#beam)" stroke-width="1.2" stroke-dasharray="5 8">
+    <path d="M440 175L170 82L88 190L245 278L440 175L635 278L792 190L710 82Z"><animate attributeName="stroke-dashoffset" values="0;-130" dur="12s" repeatCount="indefinite"/></path>
+    <path d="M170 82L330 73L440 175L550 73L710 82M245 278L330 73M635 278L550 73"><animate attributeName="stroke-dashoffset" values="-130;0" dur="14s" repeatCount="indefinite"/></path>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(440 175)"><circle r="50" fill="#111936" stroke="#22D3EE" stroke-width="2" filter="url(#glow)"><animate attributeName="r" values="47;51;47" dur="4s" repeatCount="indefinite"/></circle><text y="-3" fill="#F8FAFC" font-size="17" font-weight="700">GABRIEL</text><text y="18" fill="#67E8F9" font-size="11" letter-spacing="2">DEV CORE</text></g>
+    <g transform="translate(170 82)"><circle r="34" fill="#11162B" stroke="#F97316"/><text y="5" fill="#FED7AA" font-size="16" font-weight="600">Java</text></g>
+    <g transform="translate(330 73)"><circle r="34" fill="#11162B" stroke="#60A5FA"/><text y="5" fill="#BFDBFE" font-size="15" font-weight="600">Python</text></g>
+    <g transform="translate(550 73)"><circle r="34" fill="#11162B" stroke="#A78BFA"/><text y="5" fill="#DDD6FE" font-size="17" font-weight="600">C</text></g>
+    <g transform="translate(710 82)"><circle r="34" fill="#11162B" stroke="#FACC15"/><text y="-2" fill="#FEF08A" font-size="13" font-weight="600">Git</text><text y="14" fill="#FEF08A" font-size="11">GitHub</text></g>
+    <g transform="translate(88 190)"><circle r="35" fill="#11162B" stroke="#34D399"/><text y="-2" fill="#A7F3D0" font-size="13" font-weight="600">Spring</text><text y="14" fill="#A7F3D0" font-size="11">Boot</text></g>
+    <g transform="translate(792 190)"><circle r="35" fill="#11162B" stroke="#2DD4BF"/><text y="5" fill="#99F6E4" font-size="14" font-weight="600">Django</text></g>
+    <g transform="translate(245 278)"><circle r="35" fill="#11162B" stroke="#22D3EE"/><text y="5" fill="#A5F3FC" font-size="15" font-weight="600">React</text></g>
+    <g transform="translate(635 278)"><circle r="35" fill="#11162B" stroke="#94A3B8"/><text y="-2" fill="#E2E8F0" font-size="13" font-weight="600">Linux</text><text y="14" fill="#94A3B8" font-size="10">VS CODE</text></g>
+  </g>
+  <g fill="#22D3EE" filter="url(#glow)"><circle r="3"><animateMotion dur="7s" repeatCount="indefinite" path="M440 175L170 82L88 190L245 278L440 175"/></circle><circle r="3"><animateMotion dur="9s" repeatCount="indefinite" path="M440 175L550 73L710 82L792 190L635 278L440 175"/></circle></g>
+</svg>

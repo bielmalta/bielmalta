@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="95" viewBox="0 0 1200 95" role="img" aria-labelledby="title">
+  <title id="title">Animated orbital signal footer</title>
+  <defs><linearGradient id="line"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".3" stop-color="#22D3EE"/><stop offset=".7" stop-color="#A78BFA"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path d="M0 48H420l24-20 26 40 28-58 30 74 30-60 26 45 26-21h590" fill="none" stroke="#1E293B" stroke-width="2"/>
+  <path d="M0 48H420l24-20 26 40 28-58 30 74 30-60 26 45 26-21h590" fill="none" stroke="url(#line)" stroke-width="2.5" stroke-dasharray="180 1120" filter="url(#g)"><animate attributeName="stroke-dashoffset" values="1300;-1300" dur="6s" repeatCount="indefinite"/></path>
+  <circle cx="600" cy="48" r="4" fill="#F8FAFC" filter="url(#g)"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="600" y="92" text-anchor="middle" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="4">END OF TRANSMISSION · KEEP EXPLORING</text>
+</svg>
